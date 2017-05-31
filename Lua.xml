@@ -2791,6 +2791,6 @@
 		<Constant name='right' value='&apos;HorizAlign_Right&apos;'/>
 		<Constant name='top' value='&apos;VertAlign_Top&apos;'/>
 	</Constants>
-	<Version>StepMania v5.0 beta 3</Version>
-	<Date>2014-09-15</Date>
+	<Version>StepMania v5.1-new</Version>
+	<Date>2017-05-30</Date>
 </Lua>
